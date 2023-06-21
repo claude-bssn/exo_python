@@ -27,10 +27,13 @@ Q-5 : b
 Q-6 : b 
 Q-7 : a 
 Q-8 : d 
-Q-9 : a 
-Q-10 : c 
-Q-11 : a 
-q-12 : a
+Q-9 : b 
+Q-10 : a 
+Q-11 : b 
+Q-12 : d 
+Q-13 : d
+Q-14 : a 
+Q-15 : a 
 
 Qu'est-ce que la programmation réseau ?
  a) La programmation d'applications utilisant les réseaux sociaux
