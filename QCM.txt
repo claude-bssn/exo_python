@@ -1,0 +1,111 @@
+Sujet : Examen à choix multiples
+
+Instructions :
+
+Veuillez répondre à chaque question en indiquant le numéro de la question suivi de la lettre correspondant à votre réponse choisie.
+
+Pour chaque réponse correcte, vous obtiendrez 1 point.
+Pour chaque réponse incorrecte, vous perdrez 2 points.
+Les réponses non fournies ne rapporteront ni ne déduiront aucun point.
+
+Vous disposez d'environ 5 minutes pour compléter l'examen.
+Assurez-vous d'envoyer vos réponses avant 17:10 sur le classRoom pour que je puisse vérifier l'heure de réception.
+
+Envoyez les réponses numéro dans l'ordre ( avec la lettre choisie )
+Exemple :
+Q-1 : a)
+Q-2 : b)
+...etc
+
+Bonne chance !
+
+Q-1 : d
+Q-2 : c
+Q-3 : -
+Q-4 : c
+Q-5 : b
+Q-6 : b 
+Q-7 : a 
+Q-8 : d 
+Q-9 : a 
+Q-10 : c 
+Q-11 : a 
+q-12 : a
+
+Qu'est-ce que la programmation réseau ?
+ a) La programmation d'applications utilisant les réseaux sociaux
+ b) La programmation de jeux vidéo en ligne
+ c) La programmation d'applications qui communiquent via un réseau
+ d) La programmation de systèmes d'exploitation réseau
+Quel protocole est utilisé pour l'envoi et la réception de courriels ?
+ a) HTTP
+ b) FTP
+ c) SMTP
+ d) SSH
+Quelle est la principale différence entre TCP et UDP ?
+ a) TCP est plus rapide que UDP
+ b) TCP est utilisé pour la diffusion en continu de contenu multimédia
+ c) UDP est plus fiable car il garantit la livraison des paquets
+ d) UDP est utilisé pour les transferts de fichiers volumineux
+Qu'est-ce qu'une attaque par déni de service (DDoS) ?
+ a) Une attaque visant à voler des informations personnelles
+ b) Une attaque visant à infecter un système par un virus
+ c) Une attaque visant à rendre un service indisponible en submergeant le serveur de requêtes
+ d) Une attaque visant à espionner les communications réseau
+Qu'est-ce qu'une injection de code en programmation sécurisée ?
+ a) Une attaque qui vise à voler des informations personnelles via une base de données
+ b) Une technique pour insérer du code malveillant dans une application afin de la compromettre
+ c) Une attaque visant à rendre un service indisponible en submergeant le serveur de requêtes
+ d) Un protocole de communication utilisé pour sécuriser les connexions réseau
+Qu'est-ce qu'un pare-feu ?
+ a) Un dispositif matériel utilisé pour stocker des données réseau
+ b) Un logiciel utilisé pour analyser le trafic réseau et bloquer les connexions non autorisées
+ c) Un protocole de communication utilisé pour sécuriser les connexions réseau
+ d) Un service en ligne permettant de vérifier la vitesse de connexion Internet
+Qu'est-ce que l'authentification multi-facteurs ?
+ a) Une méthode d'identification qui utilise plusieurs informations d'identification différentes pour accéder à un système
+ b) Une technique de chiffrement utilisée pour sécuriser les communications réseau
+ c) Une attaque visant à voler des informations personnelles
+ d) Un protocole de sécurité utilisé pour protéger les connexions Internet
+Supposons que vous ayez une adresse MAC suivante : "00:1B:63:84:45:9A". Vous voulez vérifier si cette adresse MAC est valide. Quelle méthode pouvez-vous utiliser ?
+ a) Vérifier si l'adresse MAC est composée de 6 groupes de 2 chiffres hexadécimaux séparés par des deux-points.
+ b) Vérifier si chaque groupe de chiffres hexadécimaux est compris entre 00 et FF.
+ c) Vérifier si l'adresse MAC suit le format hexadécimal à deux-points.
+ d) Toutes les réponses ci-dessus.
+Supposons que vous ayez une adresse MAC suivante : "00:1B:63:84:45:9A:FF". Vous voulez vérifier si cette adresse MAC est valide. Quel sera le résultat de cette vérification ?
+ a) True
+ b) False
+ c) Erreur
+ d) Aucune des réponses ci-dessus
+Supposons que vous ayez une liste d'adresses IP suivante : ["192.168.0.1", "10.0.0.1", "172.16.0.1", "192.168.1.1"]. Vous voulez vérifier si l'adresse IP "10.0.0.1" se trouve dans la liste. Quel opérateur logique pouvez-vous utiliser ?
+ a) in
+ b) not
+ c) and
+ d) or
+Supposons que vous ayez une liste d'adresses IP suivante : ["192.168.0.1", "10.0.0.1", "172.16.0.1", "192.168.1.1"]. Vous voulez vérifier si l'adresse IP "192.168.2.1" se trouve dans la liste. Quel sera le résultat de cette vérification ?
+ a) True
+ b) False
+ c) Erreur
+ d) Aucune des réponses ci-dessus
+Quel est l'opérateur logique utilisé pour l'opération XOR (OU exclusif) en Python ?
+ a) &
+ b) |
+ c) !
+ d) ^
+Quel sera le résultat de cette vérification ?
+x ^= 3
+print(x)
+ a) 3
+ b) 0
+ c) 5
+ d) 6
+Quel est l'opérateur de décalage vers la gauche en Python ?
+ a) <<
+ b) >>
+ c) &
+ d) |
+Supposons que nous ayons le nombre binaire suivant : 110010. Quelle sera la valeur du nombre après l'exécution de l'instruction suivante : b << 2 ?
+ a) 11001000
+ b) 110010000
+ c) 1100
+ d) 110
